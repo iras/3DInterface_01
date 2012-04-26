@@ -2,8 +2,8 @@
 ==============
 
 Prototype for a 3D widget in ActionScript 3.0 within the project "Interfaces To Handle Data Complexity".
-The prototype is self-contained meaning it comprises a tiny 3D engine + tiny 3D Physics Engine, all tied
-together in an MVC fashion.
+The prototype is self-contained meaning that it comprises a tiny 3D engine + tiny 3D Physics Engine, all
+tied together in an MVC fashion. All in order to keep the .swf file small (about 30Kb).
 
 The main class is V2View.as that can be referenced straight from Flash.
 
