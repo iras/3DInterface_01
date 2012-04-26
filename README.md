@@ -8,6 +8,6 @@ together in an MVC fashion.
 The main class is V2View.as that can be referenced straight from Flash.
 
 Please check http://www.stc0.co.uk/3DI/3DInterfaces.html for more info
-orhere http://www.visualcomplexity.com/vc/project_details.cfm?index=715&id=715&domain=
+or here http://www.visualcomplexity.com/vc/project_details.cfm?index=715&id=715&domain=
 
 If you need more info, feel free to drop an email at ivano.ras@gmail.com
